@@ -20,6 +20,13 @@
   <img align="center" alt="Victor-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Victor-C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Victor-MySQL" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+  <img align="center" alt="Victor-BootStrap" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> 
+  <img align="center" alt="Victor-Git" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
+  <img align="center" alt="Victor-GitHub" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
+  <img align="center" alt="Victor-Vue" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> 
+  <img align="center" alt="Victor-React" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
+  <img align="center" alt="Victor-Python" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+  
    
   <!--  <img height="200" width="200" align="right" alt="Antonio's-gif" 
  src="https://user-images.githubusercontent.com/129300570/234670291-40522996-bfab-48a2-963c-c41a0477025a.gif">
