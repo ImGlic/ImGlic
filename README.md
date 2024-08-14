@@ -3,7 +3,7 @@
  
 - 🖥️ I'm a Full Stack Developer and Computer Engennering Student
 
-- 💼 Currently working at NTL as Apprentice Fullstack Developer.
+- 💼 Currently working at NTL as Fullstack Developer.
 
 
 ## 
